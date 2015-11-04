@@ -1,0 +1,20 @@
+{
+  "name": "taxi-telegram-bot",
+  "version": "1.0.0",
+  "description": "I am a telegram bot that helps you to share a taxi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "taxi"
+  ],
+  "author": "Guido García <palmerabollo@gmail.com> (http://twitter.com/palmerabollo)",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.15.0",
+    "node-wit": "^2.0.0"
+  }
+}
